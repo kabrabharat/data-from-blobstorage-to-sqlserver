@@ -1,2 +1,3 @@
 # data-from-blobstorage-to-sqlserver
-ADF pipeline to migrate csv files from blob storage container to sql server
+------------------------------------
+ADF pipeline to migrate data from sql server to blob storage container as csv file
