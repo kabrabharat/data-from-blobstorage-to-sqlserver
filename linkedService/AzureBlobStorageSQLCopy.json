@@ -1,0 +1,12 @@
+{
+	"name": "AzureBlobStorageSQLCopy",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobStorage",
+		"typeProperties": {
+			"connectionString": "DefaultEndpointsProtocol=https;AccountName=blobstoragecsvmigration1;EndpointSuffix=core.windows.net;",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDM3MTUwM0ZGLTg3MUEtNDYxNC1CNzk4LTFDNzM0QUYxMzJGOV82OWM4OGMwYi1jNWQ1LTQzNjMtOTIxNC1kNzQ5OGUxOTEzMGUiDQp9"
+		}
+	}
+}
