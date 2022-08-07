@@ -8,6 +8,9 @@
 		"AzureBlobStorageCopyActivity_connectionString": {
 			"value": ""
 		},
+		"AzureBlobStorageDelete_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
