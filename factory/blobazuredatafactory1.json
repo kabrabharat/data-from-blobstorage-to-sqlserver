@@ -1,0 +1,9 @@
+{
+	"name": "blobazuredatafactory1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "de57644b-494e-4ef1-9832-c4a91167a9f9",
+		"tenantId": "804f797f-4f9c-4885-9a19-f08732faceb7"
+	}
+}
