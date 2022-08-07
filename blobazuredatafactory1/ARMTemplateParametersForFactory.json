@@ -10,6 +10,12 @@
 		},
 		"AzureBlobStorageDelete_connectionString": {
 			"value": ""
+		},
+		"AzureBlobStorageSQLCopy_connectionString": {
+			"value": ""
+		},
+		"AzureSqlDatabase1_connectionString": {
+			"value": ""
 		}
 	}
 }
